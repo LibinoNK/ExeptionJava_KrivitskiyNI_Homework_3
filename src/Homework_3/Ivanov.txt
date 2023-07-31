@@ -1,0 +1,3 @@
+<Ivanov><Ivan><Ivanovich><1998-02-04><213><m>
+<Ivanov><Petr><Ivanovich><1934-02-12><213><m>
+<Ivanov><Nikolay><Artemovich><1976-03-23><45678><m>
